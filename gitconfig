@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = valerializette.pinedacruz@kedgebs.com
+	name = Valeria Pineda
